@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sourav</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Josi</h1>
 <!-- <h4 align="center">UIET</h4> -->
 </div>
 
@@ -26,8 +26,8 @@
 
 <pre>
 💻 Learning full stack and other programming languages
-🌟 Main languages: c++, JavaScript
-🚩 Interested in Full Stack
+🌟 Main languages: c++, JavaScript, C#
+
 ⚡ Fun fact Coding is a passion and not profession
 🤝 I’m looking for help with Backend Design
 👯 I’m looking to work on some best projects so i can learn new skills
